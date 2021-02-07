@@ -1,7 +1,5 @@
 function todoList()
 {
-    //13 is keycode for enter button on keyboard
-
     const list = document.querySelector('.list');
     const input = document.querySelector('input');
     const newTask = document.createElement('li');
